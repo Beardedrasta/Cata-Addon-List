@@ -1,5 +1,7 @@
 # Cata-Addon-List
 
+![logo](https://lasu.edu.ng/ispadems/assets/img/line2.png)
+
 If using VuhDo and X-Perl disable party/raid frames in x-perl settings.
 
 Choose either **ArkInventory** or **Bagnon**!
@@ -18,7 +20,7 @@ WTF >> Account >> YOUR_ACCOUNT_NAME >> Maelstrom >> YOUR_CHARACTER_NAME
 Rename the YOUR_ACCOUNT_NAME folder to your account username.
 Rename the YOUR_CHARACTER_NAME folder to your FIRST characters name. 
 
-
+![logo](https://lasu.edu.ng/ispadems/assets/img/line2.png)
 
 🩸List for Mac🩸
 
