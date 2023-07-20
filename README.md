@@ -9,7 +9,7 @@ ${Choose\ either\ {\color{red}Chinchilla}\ or\ {\color{red}Sexymaps!}}$ </br>
 ${Choose\ either\ {\color{red}Dominos}\ or\ {\color{red}Bartender!}}$ </p>
 <p align="center"> ${\mathfrak{Do\ {\color{red}NOT}\ use\ both\ for\ obvious\ reasons}}$ </p>
 
-<p align="center"> Empty the contents of the "EMPTY_CONTENT_IN_INTERFACE_NOT_IN_ADDON" folder into the INTERFACE folder not inside the ADDONS folder. </br>
+<p align="center"> Empty the contents of the "InterfaceStyle1, InterfaceStyle2, and InterfaceStyle3" folders into the INTERFACE folder not inside the ADDONS folder. </br>
 Everything else go inside the addons folder. </p>
 
 <p align="center"> If you want my UI setup pre config. Put the WTF folder into your wow directory and change the following: </p>
