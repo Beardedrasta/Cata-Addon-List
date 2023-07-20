@@ -22,11 +22,11 @@ $${\color{orange} IMPORTANT: \space Create \space your \space character \space a
 
 🩸List for Mac🩸
 
-| Pack |
-| --- |
-| [InterfaceStyle1](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle1.zip) |
-| [InterfaceStyle2](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle2.zip) |
-| [InterfaceStyle3](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle3.zip) |
+| Pack |  Location |
+| --- | --- |
+| [InterfaceStyle1](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle1.zip) | Extract to Interface folder. |
+| [InterfaceStyle2](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle2.zip) | Extract to Interface folder. |
+| [InterfaceStyle3](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle3.zip) | Extract to Interface folder. |
 
 | Addon | Description |
 | --- | --- |
