@@ -7,7 +7,7 @@
 <p align="center"> ${Choose\ either\ {\color{red}ArkInventory}\ or\ {\color{red}Bagnon!}}$ </br>
 ${Choose\ either\ {\color{red}Chinchilla}\ or\ {\color{red}Sexymaps!}}$ </br>
 ${Choose\ either\ {\color{red}Dominos}\ or\ {\color{red}Bartender!}}$ </p> </br>
-## <p align="center"> ${\mathfrak{Do\ {\color{red}NOT}\ use\ both\ for\ obvious\ reasons}}$ </p>
+<p align="center"> ## ${\mathfrak{Do\ {\color{red}NOT}\ use\ both\ for\ obvious\ reasons}}$ </p>
 
 <p align="center"> Empty the contents of the "EMPTY_CONTENT_IN_INTERFACE_NOT_IN_ADDON" folder into the INTERFACE folder not inside the ADDONS folder.  </p>
 <p align="center"> Everything else go inside the addons folder. </p>
