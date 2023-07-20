@@ -3,9 +3,11 @@
 If using VuhDo and X-Perl disable party/raid frames in x-perl settings.
 
 Choose either **ArkInventory** or **Bagnon**!
+</br>
 Choose either **Chinchilla** or **Sexymaps**!
+</br>
 Choose either **Dominos** or **Bartender**!
-$${\color{red}Do NOT use both for obvious reasons :)}$$
+$${\color{red}Do \space NOT \space use \space both \space for \space obvious \space reasons :)}$$
 
 Empty the contents of the "EMPTY_CONTENT_IN_INTERFACE_NOT_IN_ADDON" folder into the INTERFACE folder not inside the ADDONS folder. 
 Everything else go inside the addons folder.
