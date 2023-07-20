@@ -24,8 +24,8 @@ $${\color{orange} IMPORTANT: \space Create \space your \space character \space a
 
 | Pack |
 | --- |
-| [InterfaceStyle1]([https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/ACP.zip](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle1.zip)) |
-| [InterfaceStyle2]([https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/ArkInventory.zip](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle2.zip)) |
+| [InterfaceStyle1](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle1.zip) |
+| [InterfaceStyle2](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle2.zip) |
 | [InterfaceStyle3](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/InterfaceStyle3.zip) |
 
 | Addon | Description |
