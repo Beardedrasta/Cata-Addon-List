@@ -3,7 +3,7 @@
 
 | Addon | Description |
 | --- | --- |
-| ACP | Addon control panel. |
+| [ACP](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/ACP.zip) | Addon control panel. |
 | ArkInventory | AIO inventory Mod. (Preferred)|
 | Bagnon | AIO inventory Mod. |
 | Auctionator | Auction price tracking / easy posting. |
