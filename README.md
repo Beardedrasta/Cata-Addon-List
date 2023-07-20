@@ -21,8 +21,8 @@ $${\color{orange} IMPORTANT: \space Create \space your \space character \space a
 ![logo](https://lasu.edu.ng/ispadems/assets/img/line2.png)
 
 🩸List for Mac🩸
-
-<p align="center"> | Addon | Description |
+<p align="center">
+| Addon | Description |
 | --- | --- |
 | [ACP](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/ACP.zip) | Addon control panel. |
 | [ArkInventory](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/ArkInventory.zip) | AIO inventory Mod. (Preferred)|
