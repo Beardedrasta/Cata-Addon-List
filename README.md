@@ -9,6 +9,7 @@ Choose either **Chinchilla** or **Sexymaps**!
 Choose either **Dominos** or **Bartender**! </p>
 
 # ${This\ is\ a\ {\color{red}Big}}\ Title$
+</br>
 
 ${\mathfrak{\color{red}{Do \ NOT \ use \ both \ for \ obvious \ reasons}}}$
 
