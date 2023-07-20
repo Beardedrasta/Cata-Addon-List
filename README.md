@@ -4,7 +4,7 @@
 
 <p align="center"> If using VuhDo and X-Perl disable party/raid frames in x-perl settings. </p>
 
-<p align="center"> ${Choose\ either\ **{\color{red}ArkInventory}\**\ or\ **Bagnon**!$
+<p align="center"> ${Choose\ either\ **{\color{red}ArkInventory}}\**\ or\ **Bagnon**!$
 Choose either **Chinchilla** or **Sexymaps**!
 Choose either **Dominos** or **Bartender**! </p>
 
