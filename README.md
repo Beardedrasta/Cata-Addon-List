@@ -8,10 +8,7 @@
 ${Choose\ either\ {\color{red}Chinchilla}\ or\ {\color{red}Sexymaps!}}$ </br>
 ${Choose\ either\ {\color{red}Dominos}\ or\ {\color{red}Bartender!}}$ </p>
 
-# ${This\ is\ a\ {\color{red}Big}}\ Title$
-</br>
-
-## ${\mathfrak{\color{red}{Do \ NOT \ use \ both \ for \ obvious \ reasons}}}$
+## ${\mathfrak{Do\ {\color{red}NOT}\ use\ both\ for\ obvious\ reasons}}$
 
 <p align="center"> Empty the contents of the "EMPTY_CONTENT_IN_INTERFACE_NOT_IN_ADDON" folder into the INTERFACE folder not inside the ADDONS folder.  </p>
 <p align="center"> Everything else go inside the addons folder. </p>
