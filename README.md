@@ -6,7 +6,7 @@
 
 <p align="center"> ${Choose\ either\ {\color{red}ArkInventory}\ or\ {\color{red}Bagnon!}}$ </br>
 ${Choose\ either\ {\color{red}Chinchilla}\ or\ {\color{red}Sexymaps!}}$ </br>
-Choose either **Dominos** or **Bartender**! </p>
+${Choose\ either\ {\color{red}Dominos}\ or\ {\color{red}Bartender!}}$ </p>
 
 # ${This\ is\ a\ {\color{red}Big}}\ Title$
 </br>
