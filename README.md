@@ -7,13 +7,13 @@
 <p align="center"> Choose either **ArkInventory** or **Bagnon**!
 Choose either **Chinchilla** or **Sexymaps**!
 Choose either **Dominos** or **Bartender**! </p>
-$$\mathfrak{\color{red}{Do \ NOT \ use \ both \ for \ obvious \ reasons }}$$
+$\mathfrak{\color{red}{Do \ NOT \ use \ both \ for \ obvious \ reasons}}$
 
 <p align="center"> Empty the contents of the "EMPTY_CONTENT_IN_INTERFACE_NOT_IN_ADDON" folder into the INTERFACE folder not inside the ADDONS folder.  </p>
 <p align="center"> Everything else go inside the addons folder. </p>
 
 <p align="center"> If you want my UI setup pre config. Put the WTF folder into your wow directory and change the following: </p>
-$$\mathfrak{\color{orange} IMPORTANT: \space Create \space your \space character \space and \space complete \space the \space steps \space below \space BEFORE \space logging \space into \space your \space first \space character}$$
+$${\color{orange} IMPORTANT: \space Create \space your \space character \space and \space complete \space the \space steps \space below \space BEFORE \space logging \space into \space your \space first \space character}$$
 <p align="center"> WTF >> Account >> YOUR_ACCOUNT_NAME >> Maelstrom >> YOUR_CHARACTER_NAME </p>
 <p align="center"> Rename the YOUR_ACCOUNT_NAME folder to your account username. </p>
 <p align="center"> Rename the YOUR_CHARACTER_NAME folder to your FIRST characters name.  </p>
