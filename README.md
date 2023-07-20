@@ -4,9 +4,9 @@
 
 <p align="center"> If using VuhDo and X-Perl disable party/raid frames in x-perl settings. </p>
 
-<p align="center"> Choose either **ArkInventory** or **Bagnon**! </p>
-<p align="center"> Choose either **Chinchilla** or **Sexymaps**! </p>
-<p align="center"> Choose either **Dominos** or **Bartender**! </p>
+<p align="center"> Choose either **ArkInventory** or **Bagnon**!
+Choose either **Chinchilla** or **Sexymaps**!
+Choose either **Dominos** or **Bartender**! </p>
 $${\color{red}Do \space NOT \space use \space both \space for \space obvious \space reasons :)}$$
 
 <p align="center"> Empty the contents of the "EMPTY_CONTENT_IN_INTERFACE_NOT_IN_ADDON" folder into the INTERFACE folder not inside the ADDONS folder.  </p>
