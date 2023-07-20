@@ -21,7 +21,7 @@ $${\color{orange} IMPORTANT: \space Create \space your \space character \space a
 ![logo](https://lasu.edu.ng/ispadems/assets/img/line2.png)
 
 🩸List for Mac🩸
-<p align="center">
+
 | Addon | Description |
 | --- | --- |
 | [ACP](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/ACP.zip) | Addon control panel. |
@@ -48,4 +48,4 @@ $${\color{orange} IMPORTANT: \space Create \space your \space character \space a
 | [WeakAuras](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/WeakAuras.zip) | CD/Interface/Customize/AIO type addon. |
 | [X-Perl](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/XPerl.zip) | Unit-Frame replacements. |
 | [DeadlyBossMods](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/DBM-Core.zip) | Combat encounter timers/notifications. |
-| [ZygorGuides](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/ZygorGuidesViewer.zip) | 1-85 questing guide. | </p>
+| [ZygorGuides](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/ZygorGuidesViewer.zip) | 1-85 questing guide. |
