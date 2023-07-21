@@ -13,7 +13,7 @@ ${Choose\ either\ {\color{red}Dominos}\ or\ {\color{red}Bartender!}}$ </p>
 Everything else go inside the addons folder. </p>
 
 <p align="center"> If you want my UI setup pre config. Put the WTF folder into your wow directory and change the following: </p>
-$${\color{orange} IMPORTANT: \space Create \space your \space character \space and \space complete \space the \space steps \space below \space BEFORE \space logging \space into \space your \space first \space character}$$
+$${\color{orange}{ IMPORTANT:\ Create\ your\ character\ and\ complete\ the\ steps\ below\ BEFORE\ logging\ into\ your\ first\ character}}$$
 <p align="center"> WTF >> Account >> YOUR_ACCOUNT_NAME >> Maelstrom >> YOUR_CHARACTER_NAME </p>
 <p align="center"> Rename the YOUR_ACCOUNT_NAME folder to your account username. </p>
 <p align="center"> Rename the YOUR_CHARACTER_NAME folder to your FIRST characters name.  </p>
