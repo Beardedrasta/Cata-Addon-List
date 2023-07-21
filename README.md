@@ -12,8 +12,8 @@ ${Choose\ either\ {\color{red}Dominos}\ or\ {\color{red}Bartender!}}$ </p>
 <p align="center"> Empty the contents of the "InterfaceStyle1, InterfaceStyle2, and InterfaceStyle3" folders into the INTERFACE folder not inside the ADDONS folder. </br>
 Everything else go inside the addons folder. </p>
 
-<p align="center"> If you want my UI setup pre config. Put the WTF folder into your wow directory and change the following: </p> </br>
-${\color{orange}IMPORTANT\ Create\ your\ character\ and\ complete\ the\ steps\ below\ BEFORE\ logging\ into\ your\ first\ character}$
+<p align="center"> If you want my UI setup pre config. Put the WTF folder into your wow directory and change the following: </br>
+${\color{red}IMPORTANT\ Create\ your\ character\ and\ complete\ the\ steps\ below\ BEFORE\ logging\ into\ your\ first\ character}$ </br>
 <p align="center"> WTF >> Account >> YOUR_ACCOUNT_NAME >> Maelstrom >> YOUR_CHARACTER_NAME </p>
 <p align="center"> Rename the YOUR_ACCOUNT_NAME folder to your account username. </p>
 <p align="center"> Rename the YOUR_CHARACTER_NAME folder to your FIRST characters name.  </p>
