@@ -24,7 +24,7 @@ ${\color{orange}IMPORTANT\ Create\ your\ character\ and\ complete\ the\ steps\ b
 
 | Solo | Self Scripted|
 | --- | --- |
-| [RasPort](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/RasPort.zip) | Viewport and more to be added. |
+| [RasPort](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/RasPort.zip) | Custom Addon ive been crafting for Cata servers. |
 | [WTF](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/WTF.zip) | My layout config files. |
 
 | Pack |  Location |
