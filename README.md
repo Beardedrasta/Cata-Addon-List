@@ -52,7 +52,7 @@ ${\color{orange}IMPORTANT\ Create\ your\ character\ and\ complete\ the\ steps\ b
 | [OmniCC](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/OmniCC.zip) | Cooldown countdown text. |
 | [PallyPower](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/PallyPower.zip) | EZ mode paladin buffing. |
 | [Pawn](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/Pawn.zip) | Gear upgrade suggestion on tooltip. |
-| [Skada](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/Skada.zip) | Skada damage meter. |
+| [Details](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/Details.zip) | Details damage meter. |
 | [Skada: Improvement](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/SkadaImprovement.zip) | Skada damage meter improvement. |
 | [Skinner](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/Skinner.zip) | Replaces wow interface backgrounds/border. |
 | [VuhDo](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/VuhDo.zip) | Healing party/raid frames. |
