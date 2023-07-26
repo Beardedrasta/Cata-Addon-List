@@ -44,6 +44,7 @@ ${\color{orange}IMPORTANT\ Create\ your\ character\ and\ complete\ the\ steps\ b
 | [Chinchilla](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/Chinchilla.zip) | Minimap enhancement. (Preferred)|
 | [Sexymap] | Minimap enhancement. |
 | [DocsNameplates](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/DocsUI_Nameplates.zip) | Nameplate enhancement. |
+| [TidyPlates](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/TidyPlates.zip) | Nameplate enhancement + includes debuffs on nameplate |
 | [Dominos](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/Dominos.zip) | Action bar enhancement.  (Preferred)|
 | [Bartender] | Action bar enhancement. |
 | [FontDamageChanger](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/FontDamageChanger.zip) | Damage font replacement. |
