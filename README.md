@@ -20,7 +20,7 @@ ${\color{orange}IMPORTANT\ Create\ your\ character\ and\ complete\ the\ steps\ b
 
 ![logo](https://lasu.edu.ng/ispadems/assets/img/line2.png)
 
-🩸List for Mac🩸
+🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸
 
 | Solo | Self Scripted|
 | --- | --- |
@@ -58,3 +58,5 @@ ${\color{orange}IMPORTANT\ Create\ your\ character\ and\ complete\ the\ steps\ b
 | [X-Perl](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/XPerl.zip) | Unit-Frame replacements. |
 | [DeadlyBossMods](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/DBM-Core.zip) | Combat encounter timers/notifications. |
 | [ZygorGuides](https://github.com/Beardedrasta/Cata-Addon-List/raw/main/AddOns/ZygorGuidesViewer.zip) | 1-85 questing guide. |
+
+🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸🩸
